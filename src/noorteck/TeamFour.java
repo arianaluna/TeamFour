@@ -12,6 +12,9 @@ public class TeamFour {
 		// I named it TeamFourAriana in-case anyone else goes through the same issue
 		System.out.println("Hi Fieruz was here");
 		// I did the same Marvin did since the projectname is the same
+		
+		System.out.println("Ariana here");
+		//sorry about that, but thank you guys!
 	}
 
 }
