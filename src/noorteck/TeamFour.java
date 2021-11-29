@@ -1,6 +1,6 @@
 package noorteck;
 
-public class TeamFour {
+public class TeamFourAriana {
 	public static void main(String[] args) {
 		System.out.println("Hello Team");
 		
